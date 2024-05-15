@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+
+analyzer:
+  plugins:
+    - custom_lint
+
+custom_lint:
+  rules:
